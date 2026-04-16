@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Allentown-Bethlehem-Easton (Metro), PA-NJ, covering Allentown, Bethlehem, and Easton. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Allentown-Bethlehem-Easton (Metro), PA-NJ, US",
+  "export_job_id": "7767d7d4-9e79-48cd-91f1-282813bd97f5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 703101,
+  "location_name": "Allentown-Bethlehem-Easton, PA-NJ",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-allentown-bethlehem-easton-metro-pa-nj-us-sample-703101",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/703101/beamstation_703101_restaurants-us-allentownbethlehemeastonpanj_SAMPLE_DIST.csv",
+  "sample_pct": 13.27,
+  "sample_records": 185,
+  "sample_sha256": "186bc755b00e0cac22f7940d70cbd8c0e090de869fa894eed308d0a9afc50fde",
+  "sample_size_bytes": 712121,
+  "total_records": 1394,
+  "updated_at": "2026-03-31T13:34:08.973813+00:00"
+}
