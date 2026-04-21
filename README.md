@@ -1,6 +1,6 @@
 # All Restaurants in Allentown-Bethlehem-Easton (Metro), PA-NJ, US
 
-> Free BeamStation sample export with 185 rows and masked direct-contact fields.
+> Free BeamStation sample export with 150 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `703101` |
 | Location | Allentown-Bethlehem-Easton, PA-NJ |
 | Category | Restaurants |
-| Full dataset size | 1,854 records |
-| Free sample size | 185 records (9.98%) |
-| Last export | 2026-04-14T13:59:42.853373+00:00 |
+| Full dataset size | 1,504 records |
+| Free sample size | 150 records (9.97%) |
+| Last export | 2026-04-21T15:01:13.054551+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-allentown-bethlehem-easton-metro-pa-nj-us-sample-703101/releases/download/sample-latest/beamstation_703101_restaurants-us-allentownbethlehemeastonpanj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
