@@ -1,12 +1,12 @@
 {
-  "export_job_id": "139a49ce-33e1-4389-88df-c791ceb808b4",
+  "export_job_id": "11880510-45cf-4d33-8fd3-f7c7c4ca776c",
   "id_short": 703101,
-  "published_at": "2026-04-21T19:43:26Z",
+  "published_at": "2026-04-28T19:55:32Z",
   "repo_name": "all-restaurants-in-allentown-bethlehem-easton-metro-pa-nj-us-sample-703101",
   "sample_asset_name": "beamstation_703101_restaurants-us-allentownbethlehemeastonpanj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/703101/beamstation_703101_restaurants-us-allentownbethlehemeastonpanj_SAMPLE_DIST.csv",
-  "sample_records": 150,
-  "sample_sha256": "e9121b74ac40bef68fe9bf96a7ee2c44ae38ee182aa6dda22eb5f8008d03bc8a",
-  "sample_size_bytes": 576282,
-  "total_records": 1504
+  "sample_records": 172,
+  "sample_sha256": "dfd353c1be62d62efebea734bc1cfe442761a1fafaec9002387ef8e59ddf1bf7",
+  "sample_size_bytes": 532427,
+  "total_records": 1722
 }
